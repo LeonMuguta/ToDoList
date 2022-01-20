@@ -13,13 +13,14 @@ body {
     position: relative;
     top: 90px;
     text-align: center;
+    overflow: auto;
 }
 
 #box h1 {
     font-family: 'Lobster', cursive;
 }
 
-#box ul {
+#listItems {
     text-align: left;
     padding: 0%;
 }
